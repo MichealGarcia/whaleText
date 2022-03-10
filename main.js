@@ -20,7 +20,7 @@ var iteratePhrase = function iteratePhrase(phrase, vowels) {
 
         // define our values and make them lowercase
         let letter = phrase[i].toLowerCase();
-        // Test letters
+        // Test letters, BASED ON THIS THERE SHOULD BE NO DIFFERENCE?
         // console.log(letter)
 
         // if a value is 'e' or 'u', push to our resultArray
